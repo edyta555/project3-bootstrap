@@ -1,1 +1,1 @@
-A responsive website built with Bootsrap.
+A responsive website built with Bootstrap.
